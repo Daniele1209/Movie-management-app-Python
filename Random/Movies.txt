@@ -1,0 +1,10 @@
+0000,The Godfather,great movie,Drama
+0001,The Dark Knight,best joker ever,Action 
+0010,The Lord of the Rings,kind of like the best movie triology,Fantasy
+0011,Pulp Fiction,one of the classics,Crime
+0100,Joker,a new take on the joker story,Drama
+0101,Fight Club,you never talk about fight club,Drama
+0110,Star Wars,you are lucky to live in the same timeline as star wars, Adventure
+0111,Interstellar,great sf movie,SF
+1000,Back to the Future,great piece of pop culture,Comedy
+1001,The Wolf of Wall Street,What kind of hooker takes credit cards ?,Biography
